@@ -12,12 +12,6 @@
 
 const { decode } = require("jwt-simple");
 const util = require("../utils/util");
-// var logger = require('logger').createLogger();
-
-// console.log("--")
-// logger.info("--------")
-//Here we’re assigning the functions  we want to export to an exports property on module
-// The module.exports is a special object which is included in every JavaScript file in the Node.js application by default. The module is a variable that represents the current module, and exports is an object that will be exposed as a module. So, whatever you assign to module.exports will be exposed as a module.
 module.exports = function (mongoose, utils, config, constants, logger) {
 
     var Employees = mongoose.model('Employees');
