@@ -3,7 +3,7 @@
  * Module           : Questionnaire
  * Source filename  : questionnaire.js
  * Description      : Api routes for the questionnaire.
- * Author           : Prajwal Kiran Amin <likhitha.m@robosoftin.com>
+ * Author           : Prajwal Kiran Amin <prajwal.amin@robosoftin.com>
  * Copyright        : Copyright © 2020, Eval
  *                    Written under contract by Robosoft Technologies Pvt. Ltd.
  */
