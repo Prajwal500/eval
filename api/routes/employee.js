@@ -3,7 +3,7 @@
  * Module           : Employee
  * Source filename  : employee.js
  * Description      : Api routes for the employee.
- * Author           : Prajwal Kiran Amin <likhitha.m@robosoftin.com>
+ * Author           : Prajwal Kiran Amin <prajwal.amin@robosoftin.com>
  * Copyright        : Copyright © 2020, Eval
  *                    Written under contract by Robosoft Technologies Pvt. Ltd.
  */
