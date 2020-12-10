@@ -41,20 +41,7 @@ var config = {
 
 
         },
-        facebook: {
-            appId: '376504556736668',
-            appSecret: 'dcdea76b856258f6f5455f2af141e8af'
-        },
-        google: {
-            clientId: "321295520785-4qg71efq6g9p8nnrt1pnfg5ki9sa5gav.apps.googleusercontent.com",
-            clientSecret: "eEpQO0wuIT7YnDDadwR6L_jC"
-        },
-        twitter: {
-            consumerKey: 'x5cODy7gon51zcNHPSK17aKcq',
-            consumerSecret: 'vB65cMTIRwK7nYkialTbvDIPFJ6Fg5wIWEDkzAEeUUBuxHtNLp'
-        }
-
-
+        
     },
 
     development: {
@@ -73,22 +60,9 @@ var config = {
         refreshTokenExpiry: 300,
         otpExpiry: 5,
         email: {
-            'user': 'likhitha2904@yahoo.com',
-            'pass': 'slamsizkrlmkrlsx'
+            'user': 'prajwalamin10@yahoo.com',
+            'pass': 'ylrdnbffxbrqalxo'
         },
-        facebook: {
-            appId: '376504556736668',
-            appSecret: 'dcdea76b856258f6f5455f2af141e8af'
-        },
-        google: {
-            clientId: "321295520785-4qg71efq6g9p8nnrt1pnfg5ki9sa5gav.apps.googleusercontent.com",
-            clientSecret: "eEpQO0wuIT7YnDDadwR6L_jC"
-        },
-        twitter: {
-            consumerKey: 'Fo5Dzvx9LLqxQo7eDEnUnvEM5',
-            consumerSecret: 'xVpcv8A8r9O3o1cPf5poPN0OX99YWmlPNg3NkXfdzUVihnKbpG'
-        }
-
 
     },
 
@@ -108,24 +82,10 @@ var config = {
         refreshTokenExpiry: 300,
         otpExpiry: 5,
         email: {
-            'user': 'likhitha2904@yahoo.com',
-            'pass': 'slamsizkrlmkrlsx'
+            'user': 'prajwalamin10@yahoo.com',
+            'pass': 'ylrdnbffxbrqalxo'
         },
-        facebook: {
-            appId: '680442852909593',
-            appSecret: '67d746ffa1db32ff32e47cade07a6d9b'
-        },
-        google: {
-            clientId: "321295520785-4qg71efq6g9p8nnrt1pnfg5ki9sa5gav.apps.googleusercontent.com",
-            clientSecret: "eEpQO0wuIT7YnDDadwR6L_jC"
-        },
-        twitter: {
-            consumerKey: 'Fo5Dzvx9LLqxQo7eDEnUnvEM5',
-            consumerSecret: 'xVpcv8A8r9O3o1cPf5poPN0OX99YWmlPNg3NkXfdzUVihnKbpG'
-        }
-
-
-
+        
     },
     uat: {
         mongo: {
@@ -143,24 +103,10 @@ var config = {
         refreshTokenExpiry: 300,
         otpExpiry: 5,
         email: {
-            'user': 'likhitha2904@yahoo.com',
-            'pass': 'slamsizkrlmkrlsx'
+            'user': 'prajwalamin10@yahoo.com',
+            'pass': 'ylrdnbffxbrqalxo'
         },
-        facebook: {
-            appId: '680442852909593',
-            appSecret: '67d746ffa1db32ff32e47cade07a6d9b'
-        },
-        google: {
-            clientId: "321295520785-4qg71efq6g9p8nnrt1pnfg5ki9sa5gav.apps.googleusercontent.com",
-            clientSecret: "eEpQO0wuIT7YnDDadwR6L_jC"
-        },
-        twitter: {
-            consumerKey: 'Fo5Dzvx9LLqxQo7eDEnUnvEM5',
-            consumerSecret: 'xVpcv8A8r9O3o1cPf5poPN0OX99YWmlPNg3NkXfdzUVihnKbpG'
-        }
-
-
-
+        
     },
     production: {
         mongo: {
@@ -186,24 +132,12 @@ var config = {
         refreshTokenExpiry: 300,
         otpExpiry: 5,
         email: {
-            'user': 'likhitha2904@yahoo.com',
-            'pass': 'slamsizkrlmkrlsx'
+            'user': 'prajwalamin10@yahoo.com',
+            'pass': 'ylrdnbffxbrqalxo'
 
 
         },
-        facebook: {
-            appId: '680442852909593',
-            appSecret: '67d746ffa1db32ff32e47cade07a6d9b'
-        },
-        google: {
-            clientId: "321295520785-4qg71efq6g9p8nnrt1pnfg5ki9sa5gav.apps.googleusercontent.com",
-            clientSecret: "eEpQO0wuIT7YnDDadwR6L_jC"
-        },
-        twitter: {
-            consumerKey: 'Fo5Dzvx9LLqxQo7eDEnUnvEM5',
-            consumerSecret: 'xVpcv8A8r9O3o1cPf5poPN0OX99YWmlPNg3NkXfdzUVihnKbpG'
-        }
-
+        
     }
 };
 
